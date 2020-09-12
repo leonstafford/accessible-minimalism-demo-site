@@ -10,6 +10,8 @@ This site demonstrates [Accessible Minimalism](https://github.com/leonstafford/a
  - no unneccessary bloat
  - [HTML validates to support old devices](/features/xhtml-strict/)
  - minimal configuration required
+ - RSS subscription built-in
+ - no JavaScript dependency
 
 ## Benefits
 
