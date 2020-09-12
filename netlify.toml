@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "mv tidy /usr/local/bin/ && hugo --gc --minify && find . -name '*.html' -type f -print -exec tidy -mq '{}' \;"
+command = "export PATH=$PATH:$(pwd) && hugo --gc --minify && find . -name '*.html' -type f -print -exec tidy -mq '{}' \;"
 
 [context.production.environment]
 HUGO_VERSION = "0.68.3"
