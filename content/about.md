@@ -1,25 +1,32 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "A minimalist Hugo theme with a penchant for accessibility"
+date = "2020-09-12"
+author = "Leon Stafford"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+[Accessible Minimalism](https://github.com/leonstafford/accessible-minimalism-hugo-theme)
+ is a minimalist [Hugo](https://gohugo.io) theme with a penchant for
+ accessibility.
 
-Hugo makes use of a variety of open source projects including:
+It solves the problem of the bloated, inaccessible web by focusing on
+ accessibility and content over visual styling.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## For 
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Producing an accessible website is barely an achievement if
+ blind/visually-impaired users can't produce the content and develop the site
+ themselves. Towards this, the Accessible Minimalism theme requires minimal
+ [configuration](https://github.com/leonstafford/accessible-minimalism-hugo-theme#configuration)
+ to get started and generate a complete website.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Why Hugo?
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Choosing [Hugo](https://gohugo.io) as our target Static Site Generator is also
+ an accessibility choice, with its single-binary executable quickly installable
+ on all common operating systems. Its use of [Markdown](https://www.markdownguide.org/)
+ allows for easy editing of site content in the user's preferred editor.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Learn more
+
+ - [GitHub page](https://github.com/leonstafford/accessible-minimalism-hugo-theme).

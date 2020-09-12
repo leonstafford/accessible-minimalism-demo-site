@@ -7,11 +7,13 @@ This site demonstrates [Accessible Minimalism](https://github.com/leonstafford/a
 ## Features
 
  - accessibility prioritized content and navigation
- - no unneccessary bloat
+ - no JavaScript
+ - less than 25 bytes of CSS
+ - disables `favicon.ico` request
  - [HTML validates to support old devices](/features/xhtml-strict/)
  - minimal configuration required
  - [RSS subscription built-in](/index.xml)
- - no JavaScript dependency
+ - blind/visually impaired developer-friendly
 
 ## Benefits
 
