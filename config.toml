@@ -1,3 +1,24 @@
-baseURL = "http://example.org/"
+baseURL = "https://accessible-minimalism.netlify.app/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Accessible Minmalism Demo"
+theme = "accessible-minimalism"
+disableHugoGeneratorInject = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    name = "Features"
+    url = "/features/"
+    weight = 3
+  [[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
