@@ -4,3 +4,4 @@ quiet: yes
 tidy-mark: no
 doctype: strict
 wrap: 0
+input-xml: true
