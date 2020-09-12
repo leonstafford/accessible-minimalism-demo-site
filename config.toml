@@ -1,6 +1,6 @@
 baseURL = "https://accessible-minimalism.netlify.app/"
 languageCode = "en-us"
-title = "Accessible Minmalism Demo"
+title = "Accessible Minimalism Demo"
 theme = "accessible-minimalism"
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
