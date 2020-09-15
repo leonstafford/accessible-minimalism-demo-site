@@ -10,8 +10,8 @@ type: "page"
  is a minimalist [Hugo](https://gohugo.io) theme with a penchant for
  accessibility.
 
-It solves the problem of the bloated, inaccessible web by focusing on
- accessibility and content over visual styling.
+Addressing the problem of bloat and inaccessibility of the modern web by
+ focusing on accessibility and content over visual styling.
 
 ## Target audience
 
