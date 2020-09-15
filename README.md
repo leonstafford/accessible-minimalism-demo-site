@@ -9,7 +9,6 @@ This builds the demo site at https://accessible-minimalism.netlify.app
  - adjust content text to describe the theme
  - pull in theme as submodule; update to test new builds
 
-
 ## Development
 
 ### Getting started
