@@ -1,7 +1,13 @@
-+++
-author = "Leon Stafford"
-title = "XHTML 1.0 Strict Compliance"
-+++
+---
+author: Leon Stafford
+title: Clean, valid HTML
+date: "2020-09-15"
+categories:
+- features
+tags:
+- xhtml
+- validation
+---
 
 Accessible Minimalism's theme code [validates](https://validator.w3.org/check?uri=https%3A%2F%2Faccessible-minimalism.netlify.app) against XHTML 1.0 Strict code
  standard, whilst being compatible with HTML 5 standards.
