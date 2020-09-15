@@ -18,4 +18,8 @@ enableRobotsTXT = true
     name = "Features"
     url = "/features/"
     weight = 3
+  [[menu.main]]
+    name = "Sitemap"
+    url = "/sitemap/"
+    weight = 4
 
