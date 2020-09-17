@@ -8,7 +8,7 @@ This site demonstrates [Accessible Minimalism](https://github.com/leonstafford/a
 
  - accessibility prioritized content and navigation
  - no JavaScript
- - less than 25 bytes of CSS
+ - less than 150 bytes of CSS
  - disables `favicon.ico` request
  - [clean, valid HTML](/features/clean-valid-html/)
  - minimal configuration required
